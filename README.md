@@ -1,1 +1,2 @@
 # NoteMaster
+NoteMaster is a simple C# console application that helps manage a collection of notes by organizing them into different states: completed, active, and others. It allows users to add notes with a specific state and retrieve notes based on their state. The app handles various scenarios like invalid inputs or empty notes, making it a lightweight and efficient note management solution for command-line use.
